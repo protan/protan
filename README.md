@@ -81,11 +81,6 @@
 
 <h4 align="center">All of these are open source!</h4>
 
-<h2 align="center"><u>My Github Stats</u></h2>
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio,kasroudra.github.io">
-<img align="ce
-            
 ### I've little contribution in:
 
 <a href="https://github.com/htr-tech/zphisher">Zphisher  <img src="https://img.shields.io/github/stars/htr-tech/zphisher.svg?style=social&label=Star&maxAge=14400"> </a>
