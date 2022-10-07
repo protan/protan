@@ -1,0 +1,151 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Ubuntu", sans-serif;
+  box-sizing: border-box;
+  text-decoration: none;
+}
+
+body {
+
+  background: url(img/background.jpg);
+  background-size: 100vw 100vh;
+  display: flex;
+  
+  
+ 
+  align-items: center;
+  justify-content: center;
+  object-fit: cover;
+  font-size: 10px;
+  padding-top: 10px;
+}
+
+.profile-card {
+  text-align: center;
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card-header {
+  width: 344px;
+  height: 590px;
+  /* background: #2c3a47; */
+  background: url(img/picture_background.jpg);
+  /* object-fit: none; */
+  padding: 60px 0px;
+  background-size: cover;
+}
+
+.pic {
+  display: inline-block;
+  padding: 8px;
+  background: linear-gradient(130deg, rgb(32,1,62), #1c7ea581);
+  margin: auto;
+  border-radius: 10%;
+  background-size: 150% 200%;
+  animation: animated-gradient 2s linear infinite;
+}
+
+@keyframes animated-gradient {
+  25% {
+    background-position: left bottom;
+  }
+
+  50% {
+    background-position: right bottom;
+  }
+
+  75% {
+    background-position: right top;
+  }
+
+  100% {
+    background-position: left top;
+  }
+}
+
+.pic .image {
+  background: url("img/2.JPEG") no-repeat center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 160px;
+  width: 160px;
+  border-radius: 15px;
+  animation: slider 10s infinite linear;
+}
+
+.name {
+  color: #f2f2f2;
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin: 10px 0;
+}
+
+.desc {
+  font-size: 18px;
+  color: #050505;
+}
+
+.phn-mail {
+  display:flex;
+}
+
+ .phn-mail h4 { 
+  font-size: 1rem;
+  color: #000407;
+  margin-top: 1px;
+}
+.phn-mail .mail {
+  color: #f2f2f2;
+  width: 56px;
+  font-size: 22px;
+  /* margin-top: ; */
+  transition: .3s linear;
+}
+
+.phn-mail a:hover {
+  color: #0a0101;
+}
+.primary{
+  display: flex;
+  position: absolute; 
+  top: 29rem;
+}
+.secondary{
+  display: flex;
+  position: absolute;
+  top: 33rem;
+}
+.sm {
+  display: flex;
+  position: absolute;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  flex-wrap: wrap;
+  background-color: rgba(127, 255, 212, 0);
+  height: 50px;
+  width: 344px;
+  border: 3px solid #73ad2100;
+}
+
+.sm a {
+  color: #f2f2f2;
+  flex-grow: 1;
+  font-size: 30px;
+  transition: .3s linear;
+}
+
+.sm a:hover {
+  color: #e66767;
+  font-size: 40px;
+}
+
+.card-footer {
+  background: #f4f4f4;
+  padding: 10px 10px;
+  font-size: 10px;
+}
