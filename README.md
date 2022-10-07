@@ -30,7 +30,8 @@
     <br>
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /> 
   </kbd>
    
    
@@ -48,7 +49,6 @@
     <br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
     <img width="30px" src="https://github.com/termux/termux-app/raw/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" />
-    <img width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Repl.it_logo.svg/512px-Repl.it_logo.svg.png">
   </kbd>
   <kbd>
     <kbd>OS</kbd>
@@ -67,17 +67,17 @@
 | Name                  | Description                                            |
 | ----------------------|------------------------------------------------------- |
 | _[Repository Readme Generator](https://github.com/KasRoudra/repository-readme-generator)_            | Generate a beautiful Readme.md for your repository.             |
-| _[MaxPhisher](https://github.com/KasRoudra/MaxPhisher)_                          | A python script for login phishing, image phishing and more   |
-| _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 77 website templates.     |
-| _[VidPhisher](https://github.com/KasRoudra/VidPhisher)_                          | Get front camera videos of victim just by opening a link!     |
-| _[SupremeFolio](https://github.com/KasRoudra/supremeFolio)_                    | A clean, beautiful, responsive and 100% customizable portfolio template.                                                              | 
-| _[CamHacker](https://github.com/KasRoudra/CamHacker)_                          | Hack anyone's camera with a phishing link.                      |
-| _[Github-Stats](https://github.com/KasRoudra/github-stats)_                    | Generate a card with yout github statistics                     |
-| _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             |
-| _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                          | Play music in termux by mpv.                                    |
-| _[Oh-My-Shell](https://github.com/KasRoudra/oh-my-shell)_                      | Empower your terminal with the might of fish and omf            |
-| _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                        | Encrypt or decrypt shell script and compile python scripts      |
-| _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_                | Expose locally hosted website into all over internet.           |
+<!-- | _[MaxPhisher](https://github.com/KasRoudra/MaxPhisher)_                          | A python script for login phishing, image phishing and more   | -->
+<!-- | _[PyPhisher](https://github.com/KasRoudra/pyphisher)_                          | Ultimate phishing tool in python with 77 website templates.     | -->
+<!-- | _[VidPhisher](https://github.com/KasRoudra/VidPhisher)_                          | Get front camera videos of victim just by opening a link!     | -->
+<!-- | _[SupremeFolio](https://github.com/KasRoudra/supremeFolio)_                    | A clean, beautiful, responsive and 100% customizable portfolio template.                                                              |  -->
+<!-- | _[CamHacker](https://github.com/KasRoudra/CamHacker)_                          | Hack anyone's camera with a phishing link.                      | -->
+<!-- | _[Github-Stats](https://github.com/KasRoudra/github-stats)_                    | Generate a card with yout github statistics                     | -->
+<!-- | _[YT-Downloader](https://github.com/KasRoudra/YT-Downloader)_                  | Download youtube audio or videos from command line.             | -->
+<!-- | _[MusPlayer](https://github.com/KasRoudra/MusPlayer)_                          | Play music in termux by mpv.                                    | -->
+<!-- | _[Oh-My-Shell](https://github.com/KasRoudra/oh-my-shell)_                      | Empower your terminal with the might of fish and omf            | -->
+<!-- | _[K-Fuscator](https://github.com/KasRoudra/k-fuscator)_                        | Encrypt or decrypt shell script and compile python scripts      | -->
+<!-- | _[Local2Internet](https://github.com/KasRoudra/Local2Internet)_                | Expose locally hosted website into all over internet.           | -->
 
 <h4 align="center">All of these are open source!</h4>
 
