@@ -51,6 +51,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
+     <img width="30px" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg](https://cdn.cyberpunk.rs/wp-content/uploads/2018/08/PARROT.jpg)" />
   </kbd>
 </p>
 
