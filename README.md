@@ -84,12 +84,8 @@
 <h2 align="center"><u>My Github Stats</u></h2>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KasRoudra&layout=compact&bg_color=0,73FA79,73FDFF,7A81FF&theme=graywhite&langs_count=10&exclude_repo=kasweb,supremeFolio,kasroudra.github.io">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=KasRoudra&count_private=true&show_icons=trueline_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite">	
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KasRoudra&theme=dracula">
-<img src="https://metrics.lecoq.io/KasRoudra?template=classic&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Asia%2FDhaka">	
-<img src="https://github-profile-trophy.vercel.app/?username=KasRoudra&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
-
+<img align="ce
+            
 ### I've little contribution in:
 
 <a href="https://github.com/htr-tech/zphisher">Zphisher  <img src="https://img.shields.io/github/stars/htr-tech/zphisher.svg?style=social&label=Star&maxAge=14400"> </a>
