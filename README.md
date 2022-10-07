@@ -80,4 +80,4 @@
 
 ### Contact me:
 
-<a href="https://github.com/KasRoudra" target="_blank"><img width="90px" src="https://i.pinimg.com/originals/bf/e1/6b/bfe16b1dfb6bab2f71a4453b215dbc18.jpg"></a>
+<a href="https://github.com/KasRoudra" target="_blank"><img width="290px" src="https://i.pinimg.com/originals/bf/e1/6b/bfe16b1dfb6bab2f71a4453b215dbc18.jpg"></a>
